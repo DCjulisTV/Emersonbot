@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script de atualização automática do bot
-# Autor: Dev Gui
-# Versão: 1.0.0
+# Autor: schenider
+# Versão: 1
 # Compatível com: VPS, WSL2 e Termux
 
 set -e 
