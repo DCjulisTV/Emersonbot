@@ -41,13 +41,13 @@ export const TIMEOUT_IN_MILLISECONDS_BY_EVENT = 1000;
 export const SPIDER_API_BASE_URL = "https://api.spiderx.com.br/api";
 
 // Obtenha seu token, criando uma conta em: https://api.spiderx.com.br.
-export const SPIDER_API_TOKEN = "seu_token_aqui";
+export const SPIDER_API_TOKEN = "YpE5douyXNA8fc6GS2QY";
 
 // Plataforma de geração de links a partir de imagens
 export const LINKER_BASE_URL = "https://linker.devgui.dev/api";
 
 // Obtenha sua chave em: https://linker.devgui.dev.
-export const LINKER_API_KEY = "seu_token_aqui";
+export const LINKER_API_KEY = "YpE5douyXNA8fc6GS2QY";
 
 // Caso queira responder apenas um grupo específico,
 // coloque o ID dele na configuração abaixo.
