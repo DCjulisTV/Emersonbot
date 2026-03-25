@@ -8,14 +8,13 @@ const __dirname = path.dirname(__filename);
 export const PREFIX = "/";
 
 // Emoji do bot (mude se preferir).
-export const BOT_EMOJI = "🤖";
+export const BOT_EMOJI = "> ";
 
 // Nome do bot (mude se preferir).
 export const BOT_NAME = "Emerson Bot";
 
 // LID do bot.
 // Para obter o LID do bot, use o comando <prefixo>lid respondendo em cima de uma mensagem do número do bot
-// Troque o <prefixo> pelo prefixo do bot (ex: /lid).
 export const BOT_LID = "12345678901234567890@lid";
 
 // LID do dono do bot.
