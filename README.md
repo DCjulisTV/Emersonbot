@@ -1,6 +1,6 @@
-# 🤖 Takeshi Bot
+# Emerson BOT
 
-![Takeshi Bot](./assets/images/takeshi-bot.png)
+![Emerson Bot](./assets/images/img.png)
 
 [![Version](https://img.shields.io/badge/Vers%C3%A3o-7.8.0-blue)](https://github.com/guiireal/takeshi-bot)
 [![Tests](https://github.com/guiireal/takeshi-bot-private/actions/workflows/test.yml/badge.svg)](https://github.com/guiireal/takeshi-bot-private/actions/workflows/test.yml)
