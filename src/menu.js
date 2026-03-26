@@ -29,8 +29,6 @@ export function menuMessage(groupJid) {
 ▢ • ${prefix}off
 ▢ • ${prefix}on
 ▢ • ${prefix}set-menu-image
-▢ • ${prefix}set-prefix
-▢ • ${prefix}set-spider-api-token
 ▢
 ╰━━─「🌌」─━━
 
@@ -51,20 +49,15 @@ export function menuMessage(groupJid) {
 ▢ • ${prefix}auto-sticker (1/0)
 ▢ • ${prefix}ban
 ▢ • ${prefix}delete
-▢ • ${prefix}delete-auto-responder
 ▢ • ${prefix}exit (1/0)
 ▢ • ${prefix}fechar
 ▢ • ${prefix}hidetag
 ▢ • ${prefix}limpar
-▢ • ${prefix}link-grupo
-▢ • ${prefix}list-auto-responder
 ▢ • ${prefix}mute
 ▢ • ${prefix}only-admin (1/0)
 ▢ • ${prefix}promover
 ▢ • ${prefix}rebaixar
 ▢ • ${prefix}revelar
-▢ • ${prefix}saldo
-▢ • ${prefix}set-proxy
 ▢ • ${prefix}unmute
 ▢ • ${prefix}welcome (1/0)
 ▢
@@ -75,8 +68,6 @@ export function menuMessage(groupJid) {
 ▢ • ${prefix}attp
 ▢ • ${prefix}brat
 ▢ • ${prefix}cep
-▢ • ${prefix}exemplos-de-mensagens
-▢ • ${prefix}fake-chat
 ▢ • ${prefix}gerar-link
 ▢ • ${prefix}info
 ▢ • ${prefix}meu-lid
@@ -121,9 +112,8 @@ export function menuMessage(groupJid) {
 
 ╭━━⪩ IA ⪨━━
 ▢
-▢ • ${prefix}flux
 ▢ • ${prefix}gemini
-▢ • ${prefix}gpt-5-mini
+▢ • ${prefix}gpt-5
 ▢ • ${prefix}ia-sticker
 ▢
 ╰━━─「🚀」─━━
@@ -131,7 +121,6 @@ export function menuMessage(groupJid) {
 ╭━━⪩ CANVAS ⪨━━
 ▢
 ▢ • ${prefix}blur
-▢ • ${prefix}bolsonaro
 ▢ • ${prefix}cadeia
 ▢ • ${prefix}contraste
 ▢ • ${prefix}espelhar
